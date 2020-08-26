@@ -1,7 +1,7 @@
 {
   "name": "@mgtitimoli/utils-promise",
   "description": "Promise Utilities",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Mauro Gabriel Titimoli <mgtitimoli@gmail.com> (https://github.com/mgtitimoli)",
   "license": "MIT",
   "main": "dist/index.js",
